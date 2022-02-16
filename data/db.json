@@ -1,0 +1,16 @@
+{
+     "produits": [
+          {
+               "id": 1,
+               "title": "Blue",
+               "description": "Nice color",
+               "image": ""
+          },
+          {
+               "id": 2,
+               "title": "Red",
+               "description": "Nice color to mach with",
+               "image": ""
+          }
+     ]
+}
