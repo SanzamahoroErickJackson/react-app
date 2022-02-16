@@ -54,7 +54,8 @@ const App = () => {
                ...item,
                id: listProd.length + 1,
           }));
-
+          console.log("hello");
+          // console.log("IDDDDDDDDD : ", produit);
           dispatch(addProduct(produit));
      };
 
